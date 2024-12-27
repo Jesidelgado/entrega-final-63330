@@ -1,0 +1,124 @@
+{
+  "turnos": [
+    {
+      "id": 1,
+      "cliente": "Juan Pérez",
+      "telefono": "123456789",
+      "direccion": "Av. Siempre Viva 123",
+      "email": "juanperez@email.com",
+      "auto": "Toyota Corolla",
+      "kilometros": 25000,
+      "servicio": "Cambio de aceite",
+      "fecha": "20-12-2024",
+      "hora": "10:00"
+    },
+    {
+      "id": 2,
+      "cliente": "María López",
+      "telefono": "987654321",
+      "direccion": "Calle Ficticia 456",
+      "email": "marialopez@email.com",
+      "auto": "Honda Civic",
+      "kilometros": 32000,
+      "servicio": "Revisión de frenos",
+      "fecha": "21-12-2024",
+      "hora": "14:00"
+    },
+    {
+      "id": 3,
+      "cliente": "Carlos Gómez",
+      "telefono": "345678901",
+      "direccion": "Calle Luna 789",
+      "email": "carlosgomez@email.com",
+      "auto": "Ford Focus",
+      "kilometros": 18000,
+      "servicio": "Alineación y balanceo",
+      "fecha": "22-12-2024",
+      "hora": "09:00"
+    },
+    {
+      "id": 4,
+      "cliente": "Lucía Fernández",
+      "telefono": "234567890",
+      "direccion": "Av. Libertad 1010",
+      "email": "luciafernandez@email.com",
+      "auto": "Chevrolet Cruze",
+      "kilometros": 42000,
+      "servicio": "Revisión de motor",
+      "fecha": "23-12-2024",
+      "hora": "11:30"
+    },
+    {
+      "id": 5,
+      "cliente": "Pedro Martínez",
+      "telefono": "567890123",
+      "direccion": "Calle Sol 321",
+      "email": "pedromartinez@email.com",
+      "auto": "Volkswagen Golf",
+      "kilometros": 15000,
+      "servicio": "Cambio de pastillas de freno",
+      "fecha": "24-12-2024",
+      "hora": "13:00"
+    },
+    {
+      "id": 6,
+      "cliente": "Ana Sánchez",
+      "telefono": "678901234",
+      "direccion": "Av. 9 de Julio 456",
+      "email": "anasanchez@email.com",
+      "auto": "Fiat Uno",
+      "kilometros": 28000,
+      "servicio": "Revisión de suspensión",
+      "fecha": "25-12-2024",
+      "hora": "15:00"
+    },
+    {
+      "id": 7,
+      "cliente": "Ricardo Gómez",
+      "telefono": "789012345",
+      "direccion": "Calle Ficticia 112",
+      "email": "ricardogomez@email.com",
+      "auto": "Nissan Sentra",
+      "kilometros": 37000,
+      "servicio": "Reemplazo de batería",
+      "fecha": "26-12-2024",
+      "hora": "16:00"
+    },
+    {
+      "id": 8,
+      "cliente": "Sara Martínez",
+      "telefono": "890123456",
+      "direccion": "Calle Mayor 543",
+      "email": "saramartinez@email.com",
+      "auto": "Honda Accord",
+      "kilometros": 30000,
+      "servicio": "Revisión de embrague",
+      "fecha": "27-12-2024",
+      "hora": "17:30"
+    },
+    {
+      "id": 9,
+      "cliente": "Jorge Rodríguez",
+      "telefono": "901234567",
+      "direccion": "Calle 25 de Mayo 654",
+      "email": "jorgerodriguez@email.com",
+      "auto": "BMW X1",
+      "kilometros": 50000,
+      "servicio": "Cambio de aceite",
+      "fecha": "28-12-2024",
+      "hora": "08:30"
+    },
+    {
+      "id": 10,
+      "cliente": "Martina García",
+      "telefono": "112233445",
+      "direccion": "Av. San Martín 321",
+      "email": "martinagarcia@email.com",
+      "auto": "Peugeot 208",
+      "kilometros": 45000,
+      "servicio": "Alineación y balanceo",
+      "fecha": "29-12-2024",
+      "hora": "12:00"
+    }
+  ]
+}
